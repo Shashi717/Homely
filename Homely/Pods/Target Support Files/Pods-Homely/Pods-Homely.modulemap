@@ -1,0 +1,6 @@
+framework module Pods_Homely {
+  umbrella header "Pods-Homely-umbrella.h"
+
+  export *
+  module * { export * }
+}
